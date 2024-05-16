@@ -1,0 +1,31 @@
+.jersey-25-charted-regular {
+    font-family: "Jersey 25 Charted", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  body{
+    background-color: aquamarine;
+
+  }
+  .header_div{
+background-color: blueviolet;
+text-decoration:dashed ;
+  }
+  p{
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 1ch;
+    font-size: large;
+  }
+  div{
+    font-style: initial;
+    margin-top: 20px;
+    font-weight: bold;
+    letter-spacing: 1ch;
+  }
+  .copy_right_footer{
+    background-color: blue;
+    font-size: larger;
+    line-height: 10px;
+    text-shadow: 5px;
+  }
